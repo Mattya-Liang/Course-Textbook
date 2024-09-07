@@ -46,3 +46,13 @@ We encourage you to provide feedback and report issues:
 
 Thank you for your interest and contributions! Let's make this project better together!
 
+# 特别感谢 Acknowledgements
+
+__感谢最初整理文档的学长学姐，感谢在我大一迷茫时指导我的老师和学长学姐们__
+
+__特别感谢最开始遇见的Sun Yihan学姐，是在我入学后遇见和帮助的第一位前辈。__
+
+**特别感谢Li Yuqi学长，教会了我使用SIS系统，对我了解学校的选课和政策有了巨大帮助。**
+
+**特别感谢Jiang Xinyue学姐，伟大的梗对我的帮助难以用口头表达**
+
