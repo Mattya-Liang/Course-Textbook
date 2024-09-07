@@ -14,6 +14,7 @@ You can download project-related files or resources from [Google Drive](https://
 ## 参与贡献 / Contributing
 
 欢迎任何对本仓库的教科书总汇集的贡献！以下是如何参与：
+
 We welcome contributions to this project! Here's how you can get involved:
 
 ### Fork 和 Pull Request / Fork and Pull Requests
@@ -35,11 +36,13 @@ We welcome contributions to this project! Here's how you can get involved:
 ### 提供建议和报告问题 / Provide Feedback and Report Issues
 
 鼓励和支持大家在项目中提出改进建议和报告问题：
+
 We encourage you to provide feedback and report issues:
 
 - **提出建议 / Suggest Improvements**: 在 [Issues](https://github.com/Mattya-Liang/Course-Textbook/issues) 中创建一个新问题，描述你的建议或改进意见。
 - **Report Issues**: If you have suggestions or improvements, create a new issue in [Issues](https://github.com/Mattya-Liang/Course-Textbook/issues) and describe your ideas.
 
 感谢您的关注和贡献！让我们一起让这个项目变得更完善！
+
 Thank you for your interest and contributions! Let's make this project better together!
 
